@@ -36,3 +36,4 @@ These concepts combined make a neutron star resemble a lighthouse: spinning rapi
 2. [Neutron Stars - NASA](https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html#:~:text=Most%20neutron%20stars%20are%20observed,along%20the%20two%20magnetic%20poles)
 3. [NRAO Pulsars](https://public.nrao.edu/radio-astronomy/pulsars/)
 4. [Coursera: Data-Driven Astronomy - Pulsars](https://www.coursera.org/learn/data-driven-astronomy/lecture/Q0lWr/pulsars)
+5. [Space Australia - 55 Years of Pulsar Science](https://spaceaustralia.com/feature/55-years-pulsar-science)
