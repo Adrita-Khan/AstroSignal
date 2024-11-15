@@ -2,6 +2,8 @@
 
 In 1967, a Cambridge University Ph.D. student named Jocelyn Bell discovered something unusual in her radio astronomy data—a faint blip from one part of the sky, repeating every 1.3 seconds with remarkable precision. Its uniformity led Bell and her supervisor, Anthony Hewish, to nickname the discovery **"LGM-1"** for "Little Green Men." Though they doubted it was an alien signal, they struggled to explain such a regular pattern from space.
 
+![Pulsars](https://spaceaustralia.com/sites/default/files/2022-08/Jocelyn_First_Pulsar_with_Chart_Recordings.jpg)
+
 As it turned out, a theoretical explanation had been proposed more than 30 years earlier, awaiting experimental validation. In the 1930s, astronomers **Walter Baade** and **Fritz Zwicky** sought to explain supernovae—stupendous explosions marking the death of certain stars, sometimes briefly outshining entire galaxies. When the neutron, a subatomic particle, was discovered in 1932, Baade and Zwicky recognized it could solve their puzzle. They hypothesized that when a large star exhausts its nuclear fuel, it rapidly collapses under its own gravity. The star's core transforms into an incredibly dense ball of neutrons, while the outer layers rebound in a massive explosion of light and energy—a supernova. The dense core left behind, dubbed a **neutron star**, would contain the mass of two or three suns compressed into the size of a large city.
 
 For decades, however, neutron stars were assumed to be too dim to observe directly. But in the 1960s, astronomers realized that when a star collapses in this way, two interesting things occur:
