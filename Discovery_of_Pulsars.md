@@ -12,6 +12,21 @@ For decades, however, neutron stars were assumed to be too dim to observe direct
 
 These concepts combined make a neutron star resemble a lighthouse: spinning rapidly and flashing energy beams across the universe. Suddenly, the signal Bell and Hewish detected with their radio telescope made sense. Instead of "little green men" contacting Earth, the pulses they observed were the beams of a spinning neutron star sweeping past Earth every 1.3 seconds. Further observations revealed more spinning neutron stars, some slower and others much faster. They named these fascinating objects **pulsars**.
 
+**Key Points:**
+
+1. **Discovery**: Jocelyn Bell, a Ph.D. student at Cambridge University, discovered a repeating radio signal every 1.3 seconds in 1967, initially nicknamed **"LGM-1"** for "Little Green Men."
+
+2. **Theoretical Background**: Astronomers Walter Baade and Fritz Zwicky had theorized neutron stars in the 1930s as remnants of supernovae, with intense density and mass.
+
+3. **Neutron Star Formation**: When a large star exhausts its fuel, it collapses, forming a dense core called a **neutron star**, and triggers a supernova explosion.
+
+4. **Key Characteristics of Neutron Stars**:
+   - **Increased Rotation**: Collapsed stars spin rapidly due to conservation of angular momentum.
+   - **Intense Magnetic Fields**: The collapse strengthens magnetic fields, channeling charged particles into beams.
+
+5. **Pulsar Analogy**: Neutron stars act like lighthouses, with beams of energy sweeping through space due to their rapid spin and magnetic poles.
+
+6. **Naming of Pulsars**: The observed regular signals were identified as neutron stars, now termed **pulsars**, with a range of rotation speeds.
 
 ## Resources
 
