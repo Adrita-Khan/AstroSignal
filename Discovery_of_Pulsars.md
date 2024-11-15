@@ -37,3 +37,4 @@ These concepts combined make a neutron star resemble a lighthouse: spinning rapi
 3. [NRAO Pulsars](https://public.nrao.edu/radio-astronomy/pulsars/)
 4. [Coursera: Data-Driven Astronomy - Pulsars](https://www.coursera.org/learn/data-driven-astronomy/lecture/Q0lWr/pulsars)
 5. [Space Australia - 55 Years of Pulsar Science](https://spaceaustralia.com/feature/55-years-pulsar-science)
+6. [NRAO Pulsars: Chapter 6](https://www.cv.nrao.edu/~sransom/web/Ch6.html)
