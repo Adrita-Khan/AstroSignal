@@ -149,3 +149,6 @@ Resources about aperiodic signals:
 |-------------------------|----------------------|------|
 | Overview of 1/f noise   | From Scholarpedia    | [Read](http://www.scholarpedia.org/article/1/f_noise) |
 
+
+Credit goes to [openlists/DSPResources](https://github.com/openlists/DSPResources) for the accumulation of the resources.
+
