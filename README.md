@@ -8,7 +8,7 @@ This repository applies digital signal processing to astronomical data, improvin
 https://www.mcgill.ca/newsroom/files/newsroom/channels/image/gravitational_lensing.png
 
 ## Discovery of Pulsars can be found [here](Discovery_of_Pulsars.md)
-![image](https://github.com/user-attachments/assets/8e2139db-a173-4366-be16-c7a5824e8ca1)
+![Description of GIF](https://images.theconversation.com/files/525030/original/file-20230509-23-mqcefr.gif?ixlib=rb-4.1.0&q=30&auto=format&w=600&h=450&fit=crop&dpr=2)
 
 
 ## Resources
