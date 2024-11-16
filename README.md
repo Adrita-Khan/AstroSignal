@@ -3,7 +3,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 
-This repository applies digital signal processing to astronomical data, improving signal analysis from celestial sources. It covers Fourier transforms, filtering, and advanced machine learning for tasks like RFI mitigation and anomaly detection in radio astronomy.
+This repository applies digital signal processing to astronomical data, improving signal analysis from celestial sources. 
 
 ![Signal](https://www.mcgill.ca/newsroom/files/newsroom/channels/image/gravitational_lensing.png)
 
