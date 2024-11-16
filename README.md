@@ -11,8 +11,6 @@ This repository applies digital signal processing to astronomical data, improvin
 
 ## Resources
 
-## Resources
-
 1. [CSIRO Pulsars](https://www.atnf.csiro.au/outreach/education/everyone/pulsars/index.html)
 2. [Neutron Stars - NASA](https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html#:~:text=Most%20neutron%20stars%20are%20observed,along%20the%20two%20magnetic%20poles)
 3. [NRAO Pulsars](https://public.nrao.edu/radio-astronomy/pulsars/)
@@ -22,4 +20,11 @@ This repository applies digital signal processing to astronomical data, improvin
 
 
 
+## Contributing
+
+We welcome contributions from fellow astronomy enthusiasts, programmers, and students. Contributions can include bug fixes, new features, additional examples, or enhancements to existing content.
+**For any inquiries or feedback, please contact:**
+
+**Adrita Khan**  
+[Email](mailto:adrita.khan.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrita-khan) | [Twitter](https://x.com/Adrita_)
 
