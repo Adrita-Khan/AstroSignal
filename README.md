@@ -27,7 +27,7 @@ AstroSignal applies digital signal processing to astronomical data, enhancing si
 
 ## Discovery of Pulsars
 
-Explore the [Discovery of Pulsars](Discovery_of_Pulsars.md) to understand how pulsars are detected and studied within this project.
+Explore the [Discovery of Pulsars](Discovery_of_Pulsars.md) to learn about Jocelyn Bell's groundbreaking detection of pulsars and the methods used in their discovery.
 
 ![Pulsar Animation](https://images.theconversation.com/files/525030/original/file-20230509-23-mqcefr.gif?ixlib=rb-4.1.0&q=30&auto=format&w=600&h=450&fit=crop&dpr=2)
 
