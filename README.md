@@ -33,13 +33,34 @@ Explore the [Discovery of Pulsars](Discovery_of_Pulsars.md) to learn about Jocel
 
 ## Resources
 
-1. [CSIRO Pulsars](https://www.atnf.csiro.au/outreach/education/everyone/pulsars/index.html)
-2. [Neutron Stars - NASA](https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html#:~:text=Most%20neutron%20stars%20are%20observed,along%20the%20two%20magnetic%20poles)
-3. [NRAO Pulsars](https://public.nrao.edu/radio-astronomy/pulsars/)
-4. [HTRU2 Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/372/htru2)  
-   *Lyon, R. (2015). [https://doi.org/10.24432/C5DK6R](https://doi.org/10.24432/C5DK6R)*
-5. [Predicting Pulsar Stars - Kaggle Dataset](https://www.kaggle.com/datasets/colearninglounge/predicting-pulsar-starintermediate/data)
-6. [Astronomers Capture Radio Signal from Distant Galaxy](https://www.mcgill.ca/newsroom/channels/news/astronomers-capture-radio-signal-distant-galaxy-344925)
+### Articles and Educational Resources
+1. **[CSIRO Pulsars](https://www.atnf.csiro.au/outreach/education/everyone/pulsars/index.html)**  
+   An educational overview of pulsars from the Commonwealth Scientific and Industrial Research Organisation (CSIRO).
+2. **[Neutron Stars - NASA](https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html)**  
+   Comprehensive insights into neutron stars, detailing their properties and observations.
+3. **[NRAO Pulsars](https://public.nrao.edu/radio-astronomy/pulsars/)**  
+   A detailed introduction to pulsars by the National Radio Astronomy Observatory (NRAO).
+
+### Datasets
+4. **[HTRU2 Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/372/htru2)**  
+   Lyon, R. (2015). [DOI: 10.24432/C5DK6R](https://doi.org/10.24432/C5DK6R). A dataset for pulsar candidate analysis.
+5. **[Predicting Pulsar Stars - Kaggle Dataset](https://www.kaggle.com/datasets/colearninglounge/predicting-pulsar-starintermediate/data)**  
+   A Kaggle dataset for predicting pulsar stars based on physical attributes.
+
+### Research and News Articles
+6. **[Astronomers Capture Radio Signal from Distant Galaxy](https://www.mcgill.ca/newsroom/channels/news/astronomers-capture-radio-signal-distant-galaxy-344925)**  
+   News article detailing the discovery of radio signals from a distant galaxy.
+
+### Additional Resources
+7. **[Pulsar Stars Data Exploration](https://datauab.github.io/pulsar_stars/)**  
+   Exploration of the pulsar stars dataset with visual and statistical analysis.
+8. **[Kanishk Sharma's Predicting Pulsar Stars Project](https://github.com/kanishksh4rma/predicting-a-pulsar-Star/tree/master)**  
+   A GitHub repository that demonstrates methods for predicting pulsar stars.
+9. **[Alexandre Hsd's Pulsar Prediction Repository](https://github.com/alexandrehsd/predicting-pulsar-stars)**  
+   GitHub repository with code and documentation for pulsar star prediction.
+10. **[Predicting Pulsar Stars: An Imbalanced Classification Task](https://towardsdatascience.com/predicting-pulsar-stars-an-imbalanced-classification-task-comparing-bootstrap-resampling-to-smote-8cfbe037b807)**  
+   A blog post discussing methods to address class imbalance in pulsar prediction using resampling techniques.
+
 
 ## Contributing
 
