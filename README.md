@@ -5,7 +5,7 @@
 
 This repository applies digital signal processing to astronomical data, improving signal analysis from celestial sources. It covers Fourier transforms, filtering, and advanced machine learning for tasks like RFI mitigation and anomaly detection in radio astronomy.
 
-![Description of GIF](https://images.theconversation.com/files/525030/original/file-20230509-23-mqcefr.gif?ixlib=rb-4.1.0&q=30&auto=format&w=600&h=450&fit=crop&dpr=2)
+![Signal](https://www.mcgill.ca/newsroom/files/newsroom/channels/image/gravitational_lensing.png)
 
 
 ## Discovery of Pulsars can be found [here](Discovery_of_Pulsars.md)
