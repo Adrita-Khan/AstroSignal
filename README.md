@@ -5,8 +5,10 @@
 
 This repository applies digital signal processing to astronomical data, improving signal analysis from celestial sources. It covers Fourier transforms, filtering, and advanced machine learning for tasks like RFI mitigation and anomaly detection in radio astronomy.
 
+https://www.mcgill.ca/newsroom/files/newsroom/channels/image/gravitational_lensing.png
 
 ## Discovery of Pulsars can be found [here](Discovery_of_Pulsars.md)
+![image](https://github.com/user-attachments/assets/8e2139db-a173-4366-be16-c7a5824e8ca1)
 
 
 ## Resources
@@ -16,6 +18,7 @@ This repository applies digital signal processing to astronomical data, improvin
 3. [NRAO Pulsars](https://public.nrao.edu/radio-astronomy/pulsars/)
 4. [HTRU2 Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/372/htru2) (Lyon, R. (2015). [https://doi.org/10.24432/C5DK6R](https://doi.org/10.24432/C5DK6R))
 5. [Predicting Pulsar Stars - Kaggle Dataset](https://www.kaggle.com/datasets/colearninglounge/predicting-pulsar-starintermediate/data)
+6. https://www.mcgill.ca/newsroom/channels/news/astronomers-capture-radio-signal-distant-galaxy-344925
 
 
 
