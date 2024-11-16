@@ -50,7 +50,7 @@ We welcome contributions from fellow astronomy enthusiasts, programmers, and stu
 - Additional examples
 - Enhancements to existing content
 
-##For any inquiries or feedback, please Contact:
+## For any inquiries or feedback, please Contact:
 
 **Adrita Khan**  
 [📧 Email](mailto:adrita.khan.official@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/adrita-khan) | [🐦 Twitter](https://x.com/Adrita_)
