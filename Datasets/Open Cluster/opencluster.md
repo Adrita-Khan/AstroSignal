@@ -10,5 +10,4 @@ The catalogue from this data could be found in:
 ## Acknowledgements
 Krumholz, Mark R., et al. "Star Cluster Properties in Two LEGUS Galaxies Computed with Stochastic Stellar Population Synthesis Models." *The Astrophysical Journal* 812.2 (2015): 147.
 
-## Image
-![Hubble Image](https://hubblesite.org/news/news-releases)
+
